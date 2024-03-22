@@ -1,1 +1,1 @@
-strict:"Veyr crazey broken config"
+strict:"Config for strict.2b2tpvp.net, all renders arent the same color yet"
