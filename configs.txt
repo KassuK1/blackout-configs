@@ -1,1 +1,2 @@
 strict:"Config for strict.2b2tpvp.net, all renders arent the same color yet"
+ohare:"Config for ohare.lol, uses pick silent for most stuff"
