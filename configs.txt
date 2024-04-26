@@ -1,2 +1,6 @@
-strict:"Config for strict.2b2tpvp.net, all renders arent the same color yet"
+bmc:"BlocksMC config by KassuK"
+cc2:"KassuK's cc config"
+lupobmc:"BlocksMC config by OLEPOSSU (high performance)"
 ohare:"Config for ohare.lol, uses pick silent for most stuff"
+strict:"Config for strict.2b2tpvp.net, all renders arent the same color yet"
+watchdog:"KassuK's watchdog config which probably doesn't even work"
